@@ -10,7 +10,7 @@
 
 - For Windows:
   ```powershell
-  git clone https://@github.com/Avoda-Zmanit-new/docker-config.git
+  git clone https://github.com/Avoda-Zmanit-new/docker-config.git
   cd docker-config
   docker-compose up -d
   ```
